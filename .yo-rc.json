@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "superchat"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "SuperChatService",
+    "packageName": "superchat",
+    "packageFolder": "superchat",
+    "serverPort": "0",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjZkYmE4NzRmZWJhYzk1OGU2ZDE5M2Y3ZjA5OTJjMDE1NzhkOGMxMWRkNTEwMmVhNzYwMjEzNTk5ODViNDMwNmRmODNkMDQ4MGU0NTE0MzdjZTQyZjdmMTcwZjkwOTg4OGM0ZWEwYzI4MTlmODJmMTA4YjE0MmZhZGY0ZWFhMDU=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
